@@ -6,3 +6,7 @@ mlflow.db
 .ipynb_checkpoints/
 *.png
 mlruns.db
+*.png
+*.txt
+**.csv
+*.json
